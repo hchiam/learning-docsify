@@ -1,0 +1,20 @@
+{
+  "name": "learning-docsify",
+  "version": "1.0.0",
+  "description": "Just one of the things I'm learning. <https://github.com/hchiam/learning>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rm -rf ./docs && docsify init ./docs && docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchiam/learning-docsify.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hchiam/learning-docsify/issues"
+  },
+  "homepage": "https://github.com/hchiam/learning-docsify#readme",
+  "dependencies": {}
+}
