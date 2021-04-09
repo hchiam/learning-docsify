@@ -1,7 +1,8 @@
 # Learning [docsify](https://docsify.js.org)
 
-i
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
+
+Generate documentation site on the fly (parse markdown files instead of generating static HTML files).
 
 <https://docsify.js.org>
 
