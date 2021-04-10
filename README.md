@@ -43,5 +43,5 @@ git clone https://github.com/hchiam/learning-docsify.git && cd learning-docsify 
 Or with `npm`: (triple-click to select all)
 
 ```bash
-git clone https://github.com/hchiam/learning-docsify.git && cd learning-docsify && npm install docsify-cli -g && yarn dev
+git clone https://github.com/hchiam/learning-docsify.git && cd learning-docsify && npm install docsify-cli -g && npm run dev
 ```
