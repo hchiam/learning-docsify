@@ -13,7 +13,7 @@ Generate documentation site on the fly (parse markdown files instead of generati
 Using [`yarn`](https://github.com/hchiam/learning-yarn):
 
 ```bash
-npm init
+yarn init
 yarn global add docsify-cli
 ```
 
